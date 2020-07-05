@@ -1,0 +1,9 @@
+1. Head
+2. Origin
+3. Commit
+
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin "https://fgf"
